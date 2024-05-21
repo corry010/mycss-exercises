@@ -1,0 +1,21 @@
+.odd{
+    background: rgb(252, 164, 177);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+
+
+}
+#myid{
+    color: rgb(10, 10, 216);
+    font-size: 36px;
+
+}
+#otherid{
+    background: rgb(106, 234, 106);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.odd.cooler{
+    font-size: 24px;
+
+}
